@@ -1,0 +1,25 @@
+.card-img-top{
+    width: 400px;
+    height: 300px;
+    border-radius: 2em;
+    border-style: solid light;
+}
+.card-title{
+   text-align: center;
+  
+}
+.card-text{
+    text-align: center;
+}
+.card{
+    margin-top: 3rem;
+}
+.welcome{
+    margin-top: 3rem;
+}
+.btn{
+    text-align: center;
+}
+.text-primary{
+    margin-top: 2rem;
+}
